@@ -1,0 +1,27 @@
+1.TITLE PAGE
+What is this paper called and who wrote it? – the first page of the paper; this includes the name of the paper, a “running head”, authors, and institutional affiliation of the authors.  The institutional affiliation is usually listed in an Author Note that is placed towards the bottom of the title page.  In some cases, the Author Note also contains an acknowledgment of any funding support and of any individuals that assisted with the research project.
+
+2.ABSTRACT
+One-paragraph summary of the entire study – typically no more than 250 words in length (and in many cases it is well shorter than that), the Abstract provides an overview of the study.
+
+3. INTRODUCTION
+What is the topic and why is it worth studying? – the first major section of text in the paper, the Introduction commonly describes the topic under investigation, summarizes or discusses relevant prior research (for related details, please see the Writing Literature Reviews section of this website), identifies unresolved issues that the current research will address, and provides an overview of the research that is to be described in greater detail in the sections to follow.
+
+4.METHODOLOGY
+What did you do? – a section which details how the research was performed.  It typically features a description of the participants/subjects that were involved, the study design, the materials that were used, and the study procedure.  If there were multiple experiments, then each experiment may require a separate Methods section.  A rule of thumb is that the Methods section should be sufficiently detailed for another researcher to duplicate your research.
+
+5.RESULTS
+
+What did you find? – a section which describes the data that was collected and the results of any statistical tests that were performed.  It may also be prefaced by a description of the analysis procedure that was used. If there were multiple experiments, then each experiment may require a separate Results section.
+
+6.DISCUSSION
+What is the significance of your results? – the final major section of text in the paper.  The Discussion commonly features a summary of the results that were obtained in the study, describes how those results address the topic under investigation and/or the issues that the research was designed to address, and may expand upon the implications of those findings.  Limitations and directions for future research are also commonly addressed.
+
+7. REFERENCES
+List of articles and any books cited – an alphabetized list of the sources that are cited in the paper (by last name of the first author of each source).  Each reference should follow specific APA guidelines regarding author names, dates, article titles, journal titles, journal volume numbers, page numbers, book publishers, publisher locations, websites, and so on (for more information, please see the Citing References in APA Style page of this website).
+
+8.TABLES AND FIGURES
+Graphs and data (optional in some cases) – depending on the type of research being performed, there may be Tables and/or Figures (however, in some cases, there may be neither).  In APA style, each Table and each Figure is placed on a separate page and all Tables and Figures are included after the References.  Tables are included first, followed by Figures.  However, for some journals and undergraduate research papers (such as the B.S. Research Paper or Honors Thesis), Tables and Figures may be embedded in the text (depending on the instructor’s or editor’s policies; for more details, see "Deviations from APA Style" below).
+
+9.APPENDIX
+Supplementary information (optional) – in some cases, additional information that is not critical to understanding the research paper, such as a list of experiment stimuli, details of a secondary analysis, or programming code, is provided.  This is often placed in an Appendix.
